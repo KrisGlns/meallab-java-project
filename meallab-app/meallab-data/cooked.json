@@ -1,0 +1,31 @@
+[ {
+  "favorite" : false,
+  "cooked" : false,
+  "mealId" : "53268",
+  "mealName" : "Roasted chicken with creamy walnut sauce",
+  "category" : "Chicken",
+  "area" : "Turkish",
+  "thumbnailUrl" : "https://www.themealdb.com/images/media/meals/ro8mzj1763800655.jpg",
+  "isFavorite" : false,
+  "isCooked" : false
+}, {
+  "favorite" : false,
+  "cooked" : false,
+  "mealId" : "52923",
+  "mealName" : "Canadian Butter Tarts",
+  "category" : "Dessert",
+  "area" : "Canadian",
+  "thumbnailUrl" : "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg",
+  "isFavorite" : false,
+  "isCooked" : false
+}, {
+  "favorite" : false,
+  "cooked" : false,
+  "mealId" : "52827",
+  "mealName" : "Massaman Beef curry",
+  "category" : "Beef",
+  "area" : "Thai",
+  "thumbnailUrl" : "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+  "isFavorite" : false,
+  "isCooked" : false
+} ]

@@ -1,0 +1,11 @@
+[ {
+  "favorite" : false,
+  "cooked" : false,
+  "mealId" : "52827",
+  "mealName" : "Massaman Beef curry",
+  "category" : "Beef",
+  "area" : "Thai",
+  "thumbnailUrl" : "https://www.themealdb.com/images/media/meals/tvttqv1504640475.jpg",
+  "isFavorite" : false,
+  "isCooked" : false
+} ]
